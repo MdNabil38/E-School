@@ -1,0 +1,212 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar-brand{
+    width: 20%;
+
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: #56548c;
+}
+.btn-success{
+    border-radius: 30px;
+    color: white;
+    padding: 5px 15px;
+
+}
+.btn-success:hover{
+    color: white;
+    background: #0b3527;
+}
+.nav-item{
+    margin-left: 20px;
+}
+header{
+    background-color:  #b5dab5;
+     min-height: 100vh;
+}
+.header-content{
+padding-top: 150px;
+}
+.header-content h5{
+    
+color: #FD511A;
+    
+font-size: 16px;
+    
+font-weight: 400;
+    
+line-height: 24px;
+}
+.header-content h1{
+
+color: #000;
+
+font-size: 48px;
+
+font-weight: 700;
+
+line-height: 70px;
+}
+.header-content h1 span{
+    color: #21B573;
+}
+.header-content p{
+
+color: #000;
+
+font-size: 16px;
+
+line-height: 36px;
+}
+.btn-started{
+    background: #21B573;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 30px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.feature-section{
+margin: 30px 0;
+}
+.feature-content{
+background: #F8FFFB;
+text-align: center;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+.feature-content h3{
+color: #413960;
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+margin: 0;
+}
+.feature-content p{
+color: #585859;
+font-size: 16px;
+line-height: 24px;
+margin: 0;
+}
+.feature-content img{
+width: 25%;
+margin-bottom: 15px;
+}
+.feature-content:hover{
+    background: #FFFFFF;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+border: 1px solid rgb(179, 177, 177);
+}
+.course-section{
+
+}
+.single-course{
+padding: 20px;
+background: #FFFFFF;
+box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+border-radius: 18px;
+}
+.single-course img{
+margin-bottom: 15px;
+}
+.single-course h2{
+color: #413960;
+margin: 0;
+font-size: 24px;
+line-height: 36px;
+}
+.single-course h6{
+color: #585859;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+margin-top: 10px;
+}
+.single-course .btn-course{
+background: #21B573;
+color: white;
+padding: 8px 20px;
+border-radius: 30px;
+text-transform: capitalize;
+margin: 15px 0;
+}
+.single-course ul{
+list-style:none;
+display: flex;
+justify-content: space-between;
+margin: 0;
+padding: 0;
+}
+.single-course ul li{
+color: #585859;
+font-size: 16px;
+line-height: 24px;
+}
+.single-course ul li i{
+margin-right: 9px;
+}
+
+.testimonial-section{
+
+}
+.testimonial-section p{
+
+}
+.client{
+width: 100px;
+height: 100px;
+
+border-radius: 50%;
+overflow: hidden;
+}
+.client img{
+
+}
+footer{
+    background: #282531;
+    margin-top: 100px;
+}
+footer h3{
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 30px;
+} 
+footer p{
+    color: #FFFFFF;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+}
+footer ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+footer ul li{
+
+} 
+footer ul li a{
+    text-decoration: none;
+    color: #FFFFFF;
+
+} 
+.Copyright{
+    color: #CDCDCD;
+    text-align: center;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+}
+
